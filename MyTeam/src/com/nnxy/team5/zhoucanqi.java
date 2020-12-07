@@ -1,7 +1,6 @@
 package com.nnxy.team5;
 
 public class zhoucanqi {
-//ÖÜ²ÓÆí
+//Ã–ÃœÂ²Ã“Ã†Ã­
 	int led;
-	int d;
 }
